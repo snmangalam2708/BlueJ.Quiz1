@@ -15,6 +15,7 @@ public class LoopsFunAcronymTest {
     @Test
     public void test1() {
         //Given
+        
         String phrase = "Portable Network Graphics";
         String expected = "PNG";
 
